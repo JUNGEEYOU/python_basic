@@ -49,7 +49,7 @@
     * readline()으로 빠르게 입력 받기
     * f-string 사용 예시
 * 주요 라이브러리의 문법과 유의점
-    * 내장 함수
+    * [내장 함수](/6_library/1.py)
     * itertools
     * heapq
     * bisect
